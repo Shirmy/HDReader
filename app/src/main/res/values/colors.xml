@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="hd_primary">#2F5D50</color>
+    <color name="hd_primary_container">#D4E8DF</color>
+    <color name="hd_surface">#FAF7F2</color>
+    <color name="hd_on_surface">#1B1B1B</color>
+    <color name="hd_menu_bg">#E6FFFFFF</color>
+    <color name="hd_highlight">#FFF59D</color>
+    <color name="ic_launcher_background">#2F5D50</color>
+</resources>

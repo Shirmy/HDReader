@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.HDReader" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/hd_primary</item>
+        <item name="colorPrimaryContainer">@color/hd_primary_container</item>
+        <item name="android:statusBarColor">@color/hd_primary</item>
+        <item name="android:navigationBarColor">@color/hd_surface</item>
+    </style>
+
+    <style name="Theme.HDReader.Reader" parent="Theme.HDReader">
+        <item name="android:windowFullscreen">false</item>
+        <item name="android:statusBarColor">@android:color/transparent</item>
+    </style>
+</resources>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">HDReader</string>
+    <string name="open_epub">打开 EPUB</string>
+    <string name="stage_a_hint">阶段 A · 阅读底座\n选择本机 EPUB，用成熟方案打开；横屏默认双栏整页翻。</string>
+    <string name="open_failed">打开失败：%1$s</string>
+    <string name="reading_loading">正在打开书籍…</string>
+    <string name="action_back">返回</string>
+    <string name="action_settings">设置</string>
+    <string name="action_toc">目录</string>
+    <string name="action_notes">笔记</string>
+    <string name="action_ai">AI</string>
+    <string name="action_relations">关系</string>
+    <string name="placeholder_later">本功能在后续阶段完善</string>
+    <string name="menu_settings_title">阅读设置（阶段 A 精简）</string>
+    <string name="pref_dual_column">横屏双栏</string>
+    <string name="pref_volume_keys">音量键翻页</string>
+    <string name="pref_font_size">文字大小</string>
+    <string name="theme_day">日间</string>
+    <string name="theme_night">夜间</string>
+    <string name="no_toc">本书没有目录</string>
+    <string name="unknown_author">未知作者</string>
+    <string name="unknown_title">未命名</string>
+    <string name="book_title_author">%1$s - %2$s</string>
+</resources>

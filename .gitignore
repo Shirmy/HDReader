@@ -1,7 +1,4 @@
-# 本地文档（不纳入版本跟踪）
-/docs/
-
-# Android / 构建产物（工程就绪后仍适用）
+# Android / 构建产物
 *.iml
 .gradle/
 /local.properties
@@ -18,7 +15,13 @@
 *.dex
 *.class
 
-# 临时文件
-_fix_doc.py
-*.tmp
-*~
+# 临时探测文件
+tmp_*
+tools/fetch*.ps1
+tools/dl.ps1
+tools/setup_gradlew.ps1
+tools/fetch_*.ps1
+
+# 本地密钥等
+*.jks
+*.keystore
