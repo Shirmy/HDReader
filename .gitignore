@@ -1,0 +1,24 @@
+# 本地文档（不纳入版本跟踪）
+/docs/
+
+# Android / 构建产物（工程就绪后仍适用）
+*.iml
+.gradle/
+/local.properties
+/.idea/
+.DS_Store
+/build/
+**/build/
+/captures/
+.externalNativeBuild/
+.cxx/
+*.apk
+*.ap_
+*.aab
+*.dex
+*.class
+
+# 临时文件
+_fix_doc.py
+*.tmp
+*~
